@@ -1,0 +1,31 @@
+img{
+	height:170px;
+	width:170px;
+
+}
+
+
+#picture3 {
+	position: absolute;
+	top: 130px;
+}
+#picture4{
+	position: absolute;
+	top: 240px;
+	visibility: true;
+}
+#picture5{
+	position: absolute;
+	top:400px;
+}
+h1{
+	
+	text-align: center;
+	top: 500px;
+	text-decoration-color: red;
+}
+p{
+	color: red;
+	font-size: 30px;
+	text-align: center;
+}
